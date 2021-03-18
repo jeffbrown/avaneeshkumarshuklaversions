@@ -82,9 +82,9 @@ dependencies {
     compile "com.google.protobuf:protobuf-java:3.15.6"
     compile "org.snmp4j:snmp4j:2.8.6"
     compile "org.ini4j:ini4j:0.5.4"
-    compile "net.percederberg.mibble:mibble:2.9.3"
+//    compile "net.percederberg.mibble:mibble:2.9.3"
     compile "mysql:mysql-connector-java:8.0.16"
-    implementation name: 'protobuf'
+//    implementation name: 'protobuf'
 }
 
 bootRun {
